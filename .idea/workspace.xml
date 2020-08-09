@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5581adc0-ff1a-4d2d-880c-4d2748c6cf1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3Collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Final DbMysql TeacherStudent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/ResultI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/ResultI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/ResultModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/ResultM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/StudentI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/StudentI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/SubjectI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/SubjectI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/SystemDriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/SystemDriverClassI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/MainClassI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/TeacherI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/TeacherI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/algorithms/Algorithms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/db/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/DbConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/db/DbConnectionI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/DbConnectionI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/ResultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ResultTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/SubjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/TeacherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/TeacherTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fs64c9o5xa53apqs43KvN9tkyA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.tony.ngeno" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tonyn\OneDrive\Desktop\SYSTECHTUT\MyOwnLearning\TeacherStudentDbJava\Week3Collections\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tony.ngeno.Main" />
+      <module name="Final DbMysql TeacherStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResultTest.testGetRemarks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final DbMysql TeacherStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ResultTest" />
+      <option name="METHOD_NAME" value="testGetRemarks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResultTest.testGetResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final DbMysql TeacherStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ResultTest" />
+      <option name="METHOD_NAME" value="testGetResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubjectTest.testGetScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final DbMysql TeacherStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tony.ngeno" />
+      <option name="MAIN_CLASS_NAME" value="com.tony.ngeno.SubjectTest" />
+      <option name="METHOD_NAME" value="testGetScore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherTest.testGetName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final DbMysql TeacherStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TeacherTest" />
+      <option name="METHOD_NAME" value="testGetName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TeacherTest.testGetName" />
+        <item itemvalue="JUnit.SubjectTest.testGetScore" />
+        <item itemvalue="JUnit.ResultTest.testGetRemarks" />
+        <item itemvalue="JUnit.ResultTest.testGetResult" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5581adc0-ff1a-4d2d-880c-4d2748c6cf1c" name="Default Changelist" comment="" />
+      <created>1596994262359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596994262359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="301" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597004826809">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="551" y="301" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1597004826809" />
+    <state x="30" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596999504525">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="30" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1596999504525" />
+    <state x="473" y="174" key="FileChooserDialogImpl" timestamp="1596999050600">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="473" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596999050600" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1597004924892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597004924892" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1597004924892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597004924892" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1597004924891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597004924891" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1597004924892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597004924892" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1597005049338">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1597005049338" />
+  </component>
+</project>
