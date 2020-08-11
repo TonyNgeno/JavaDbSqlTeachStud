@@ -76,7 +76,6 @@ import java.util.ArrayList;
             return this.getAverage() < 40 ? "Failed" : "Passed";
         }
 
-        // TODO: 8/8/2020
         @Override
         public ArrayList<ResultM> viewAll() throws SQLException, ClassNotFoundException {
             ResultSet resultSet = dbConnection.executeQuery("SELECT * FROM results");

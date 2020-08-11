@@ -20,34 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5581adc0-ff1a-4d2d-880c-4d2748c6cf1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3Collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Final DbMysql TeacherStudent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/ResultI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/ResultI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/ResultModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/ResultM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/StudentI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/StudentI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/SubjectI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/SubjectI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/SystemDriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/SystemDriverClassI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/MainClassI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/TeacherI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/TeacherI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/algorithms/Algorithms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/db/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/DbConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/yonathaniel/db/DbConnectionI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/DbConnectionI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/ResultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ResultTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/StudentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/SubjectTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/dev/yonathaniel/TeacherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/TeacherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tony/ngeno/Result.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,22 +181,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="473" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596999050600" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1597004924892">
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom" timestamp="1597125180286">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597004924892" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1597004924892">
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597125180286" />
+    <state width="1493" height="253" key="GridCell.Tab.0.center" timestamp="1597125180286">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597004924892" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1597004924891">
+    <state width="1493" height="253" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597125180286" />
+    <state width="1493" height="253" key="GridCell.Tab.0.left" timestamp="1597125180286">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597004924891" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1597004924892">
+    <state width="1493" height="253" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597125180286" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right" timestamp="1597125180286">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597004924892" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597125180286" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1597005049338">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
